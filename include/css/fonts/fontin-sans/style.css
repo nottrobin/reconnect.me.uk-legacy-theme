@@ -1,0 +1,35 @@
+/* Fontin sans - A font by Jos Buivenga (exljbris) -> www.exljbris.nl */
+
+@font-face {
+	font-family: 'Fontin Sans';
+	src: url('Fontin_Sans_R_45b.eot');
+	src: local('Fontin Sans Regular'), local('FontinSans-Regular'), url('Fontin_Sans_R_45b.woff') format('woff'), url('Fontin_Sans_R_45b.otf') format('opentype'), url('Fontin_Sans_R_45b.svg#FontinSans-Regular') format('svg');
+}
+
+@font-face {
+	font-family: 'Fontin Sans';
+	font-style: italic;
+	src: url('Fontin_Sans_I_45b.eot');
+	src: local('Fontin Sans Italic'), local('FontinSans-Italic'), url('Fontin_Sans_I_45b.woff') format('woff'), url('Fontin_Sans_I_45b.otf') format('opentype'), url('Fontin_Sans_I_45b.svg#FontinSans-Italic') format('svg');
+}
+
+@font-face {
+	font-family: 'Fontin Sans';
+	font-weight: bold;
+	src: url('Fontin_Sans_B_45b.eot');
+	src: local('Fontin Sans Bold'), local('FontinSans-Bold'), url('Fontin_Sans_B_45b.woff') format('woff'), url('Fontin_Sans_B_45b.otf') format('opentype'), url('Fontin_Sans_B_45b.svg#FontinSans-Bold') format('svg');
+}
+
+@font-face {
+	font-family: 'Fontin Sans';
+	font-style: italic;
+	font-weight: bold;
+	src: url('Fontin_Sans_BI_45b.eot');
+	src: local('Fontin Sans Bold Italic'), local('FontinSans-BoldItalic'), url('Fontin_Sans_BI_45b.woff') format('woff'), url('Fontin_Sans_BI_45b.otf') format('opentype'), url('Fontin_Sans_BI_45b.svg#FontinSans-BoldItalic') format('svg');
+}
+
+@font-face {
+	font-family: 'Fontin Sans Small Caps';
+	src: url('Fontin_Sans_SC_45b.eot');
+	src: local('Fontin Sans Small Caps'), local('FontinSans-SmallCaps'), url('Fontin_Sans_SC_45b.woff') format('woff'), url('Fontin_Sans_SC_45b.otf') format('opentype'), url('Fontin_Sans_SC_45b.svg#FontinSans-SmallCaps') format('svg');
+}
